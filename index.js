@@ -6,4 +6,5 @@ function theBeatlesPlay(artists, instruments){
     var str = `${artists[i]} plays ${instruments[i]}`
     list.push(str)
   }
+  return list
 }
