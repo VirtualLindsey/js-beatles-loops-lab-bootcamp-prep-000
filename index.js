@@ -15,6 +15,7 @@ function johnLennonFacts(facts){
   while (counter < facts.length){
     var str = `${facts[counter]}!!!`
     list.push(str)
+    counter = counter + 1
   }
   return list
 }
