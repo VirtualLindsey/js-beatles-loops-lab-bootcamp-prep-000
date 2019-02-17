@@ -12,3 +12,7 @@ function theBeatlesPlay(artists, instruments){
 function johnLennonFacts(facts){
   
 }
+
+function iLoveTheBeatles(n){
+  
+}
