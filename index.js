@@ -24,6 +24,7 @@ function iLoveTheBeatles(n){
   var list = []
   do {
     list.push("I love the Beatles!")
+    n = n + 1
   }while(n < 15)
   return list
 }
